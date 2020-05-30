@@ -1,3 +1,3 @@
 # Blog_APP_Django
 
-under Development
+![Home](/blogApp/readme_images/01.png)
